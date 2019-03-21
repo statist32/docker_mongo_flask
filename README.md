@@ -6,4 +6,5 @@ docker_mongo_flask
 2.  clone this repository
 3.  head over to your bash/cmd and run "docker-compose up" from this repository/folder
 4.  press ctrl + c once if the download and installation is finished
+    after "flask-app | * Runnung on http: ...."
 5.  install postman (https://www.getpostman.com/downloads/)
